@@ -1,0 +1,1 @@
+{"name":"Mein Weinkeller","short_name":"Weinkeller","description":"Private Weinverwaltung","start_url":"./","scope":"./","display":"standalone","background_color":"#faf6f2","theme_color":"#632536","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
